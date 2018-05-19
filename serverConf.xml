@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mailServer>
+	<server name="server0">
+		<from>ibrahimisbilir@parsnav.com</from>
+		<fromPass>19johi4j_Dw=</fromPass>
+		<SMTPAddr>smtp.yandex.com</SMTPAddr>
+		<SMTPPort>465</SMTPPort>
+	</server>
+</mailServer>
